@@ -2,10 +2,12 @@
     height: 100vh;
     background-image: url("./Happy-2026-New-Year-GIF.gif") ;
     background-size: cover;
+    background-position: center;
+}
+body{
+    background-color: rgb(0, 255, 191);
 }
 h1{
     font-size: 300px;
     text-align: center;
-
 }
-
