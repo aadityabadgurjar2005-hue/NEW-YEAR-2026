@@ -1,0 +1,13 @@
+body{
+  background: linear-gradient(10deg, green,white,#f56a0d);
+}
+img{
+    height: 200px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+}
